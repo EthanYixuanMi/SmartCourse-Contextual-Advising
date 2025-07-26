@@ -8,7 +8,7 @@
 
 SmartCourse is a university course management and AI-driven advising system that provides personalized course recommendations based on a student's transcript and degree plan. This repository is an enhanced version of our original course project, extended for research and evaluation purposes.
 
-> 📎 This project is based on the original coursework project:  
+> This project is based on the original coursework project:  
 > [CS-Course-Project-in-Wenzhou-Kean-University/CPS3320](https://github.com/EthanYixuanMi/CS-Course-Project-in-Wenzhou-Kean-University/tree/main/CPS3320)
 
 
