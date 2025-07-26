@@ -119,6 +119,11 @@ Our citation will be released once the arxiv link are available.
 
 SmartCourse demonstrates how contextual LLMs can transform academic advising from static guidance to personalized planning.
 
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 
