@@ -86,9 +86,15 @@ ollama pull llama3.1:8b
 > Try our visual installer: [Ollama Quick Installer for Windows](https://github.com/EthanYixuanMi/Ollama-Windows-Installer)
 
 
+## 📊 Experimental Results
+We compared SmartCourse across four context settings:
 
-
-
+| Mode          | PlanScore | PersonalScore | Lift | Recall | Latency (s) |
+| ------------- | --------- | ------------- | ---- | ------ | ----------- |
+| Full Context  | 0.53      | **0.78**          | **0.25** | 0.15   | 47.65       |
+| No Plan       | 0.03      | 0.19          | 0.16 | 0.01   | 25.36       |
+| No Transcript | **0.60**      | 0.69          | 0.09 | **0.17**   | 34.34       |
+| Question Only | 0.04      | 0.04          | 0.00 | 0.00   | 21.52       |
 
 
 
