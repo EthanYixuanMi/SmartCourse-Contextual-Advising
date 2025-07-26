@@ -97,11 +97,13 @@ We compared SmartCourse across four context settings:
 | Question Only | 0.04      | 0.04          | 0.00 | 0.00   | 21.52       |
 
 
+## 📄 Citation
+Our citation will be released once the arxiv link are available.
 
 
+SmartCourse demonstrates how contextual LLMs can transform academic advising from static guidance to personalized planning.
 
-
-
+---
 
 
 
