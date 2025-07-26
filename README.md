@@ -76,6 +76,10 @@ python ui_gradio.py
 
 
 ## AI Integration (via Ollama)
+
+![AI Advising Example](assets/ai_advice.png)  
+*Fig. 2. Sample LLM response based on transcript and degree plan.*  
+
 1. Install [Ollama](https://ollama.com/download)
 2. Set model path as environment variable (for Windows):
 ```bash
