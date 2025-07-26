@@ -1,0 +1,21 @@
+user@smartcourse.com,ESL 0303: English as a Second Language I (Speaking),A-
+user@smartcourse.com,ESL 0305: English as a Second Language I (Writing),A
+user@smartcourse.com,ESL 0403: English as a Second Language II (Speaking),B+
+user@smartcourse.com,ESL 0405: English as a Second Language II (Writing),B
+user@smartcourse.com,CPS 1231: Foundation of CS,A-
+user@smartcourse.com,CPS 2231: Computer Programming,B
+user@smartcourse.com,CPS 2232: Data Structure,C+
+user@smartcourse.com,CPS 2390: Computer Organization and Architecture,B-
+user@smartcourse.com,CPS 3320: Python Programming,B+
+user@smartcourse.com,ENG 1300: English Composition I,B+
+user@smartcourse.com,ENG 1430: English Composition II,B
+user@smartcourse.com,ENG 2403: World Literature,A-
+user@smartcourse.com,HIST 1062: World History,B+
+user@smartcourse.com,COMM 1402: Speech and Communication,B+
+user@smartcourse.com,GE 1000: Transition to Kean,A
+user@smartcourse.com,GE 2024: Research and Technology,A-
+user@smartcourse.com,MATH 2415: Calculus I,A-
+user@smartcourse.com,MATH 2416: Calculus II,C
+user@smartcourse.com,CPS 3440: Analysis of Algorithms,A
+user@smartcourse.com,CPS 3250: Computer Operating Systems,C
+user@smartcourse.com,CPS 3740: Database Management System,B+

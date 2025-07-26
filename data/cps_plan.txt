@@ -1,0 +1,43 @@
+Year 1:
+ESL 0303: English as a Second Language I (Speaking)
+ESL 0305: English as a Second Language I (Writing)
+ESL 0403: English as a Second Language II (Speaking)
+ESL 0405: English as a Second Language II (Writing)
+CPS 1231: Foundation of CS
+CPS 2231: Computer Programming
+MATH 2110: Discrete Structure
+ENG 1300: English Composition I
+ENG 1430: English Composition II
+GE 1000: Transition to Kean
+Year 2:
+CPS 2232: Data Structure
+CPS 2390: Computer Organization and Architecture
+TECH 2920: Computer System
+TECH 3525: Introduction to Linux
+MATH 2415: Calculus I
+MATH 2995: Matrix and Linear Algebra I
+MATH 2526: Applied Statistics I
+ENG 2403: World Literature
+HIST 1062: World History
+COMM 1402: Speech and Communication
+GE 2024: Research and Technology
+Year 3:
+CPS 3440: Analysis of Algorithms
+CPS 3250: Computer Operating Systems
+CPS 3962: Object Oriented Analysis and Design
+CPS 3320: Python Programming
+CPS 4982: Big Data Analysis
+MATH 2416: Calculus II
+MATH 3544: Probability and Math Statistics
+PHYS 2091: General Physics I
+PHYS 2092: General Physics II
+Year 4:
+CPS 4150: Computer Architecture
+CPS 3410: Applied Algorithm and Data Structure
+CPS 3740: Database Management System
+CPS 4222: Principle of Networking
+CPS 3498: Computer Security
+CPS 3500: Web Design
+CPS 4951: Senior Capstone
+CPS 4981: Introduction to Deep Learning
+MATH 3700: Big Data Computing

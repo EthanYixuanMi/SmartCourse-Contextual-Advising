@@ -1,0 +1,75 @@
+CPS 1231: Foundation of CS
+CPS 2231: Computer Programming
+CPS 2232: Data Structure
+CPS 2390: Computer Organization and Architecture
+CPS 3250: Computer Operating Systems
+CPS 3320: Python Programming
+CPS 3410: Applied Algorithm and Data Structure
+CPS 3440: Analysis of Algorithms
+CPS 3498: Computer Security
+CPS 3500: Web Design
+CPS 3740: Database Management System
+CPS 3962: Object Oriented Analysis and Design
+CPS 4150: Computer Architecture
+CPS 4222: Principle of Networking
+CPS 4951: Senior Capstone
+CPS 4981: Introduction to Deep Learning
+CPS 4982: Big Data Analysis
+MATH 2110: Discrete Structure
+MATH 2400: Calculus for Business and Economics
+MATH 2415: Calculus I
+MATH 2416: Calculus II
+MATH 2526: Applied Statistics I
+MATH 3415: Calculus III
+MATH 3455: Differential Equations
+MATH 3544: Probability and Math Statistics
+MATH 3790: Applied Machine Learning
+MATH 4710: Data Visualization
+MATH 4720: Statistical Data Mining
+TECH 2920: Computer System
+TECH 3525: Introduction to Linux
+PHYS 2091: General Physics I
+PHYS 2092: General Physics II
+PHYS 2095: Physics I
+PHYS 2196: Physics II
+PHYS 2197: Physics III
+CHEM 1083: Chemistry I
+CHEM 1084: Chemistry II
+BIO 1300: General Biology I
+BIO 1400: General Biology II
+ENG 1300: English Composition I
+ENG 1430: English Composition II
+ENG 2403: World Literature
+ENG 3090: Technical Writing For Business
+ENG 3091: Technical Writing For Science
+GE 1000: Transition to Kean
+GE 2024: Research and Technology
+COMM 1402: Speech and Communication
+COMM 3590: Professional Communication
+HIST 1062: World History
+PHIL 1100: Introduction to Philosophy
+PHIL 2505: Critical Thinking
+PSY 1000: General Psychology
+ECON 1020: Principles of Economics I
+ECON 1021: Principles of Economics II
+SOC 1000: Introduction to Sociology
+ESL 0303: English as a Second Language I (Speaking)
+ESL 0305: English as a Second Language I (Writing)
+ESL 0403: English as a Second Language II (Speaking)
+ESL 0405: English as a Second Language II (Writing)
+ACCT 2200: Principles of Accounting I
+ACCT 2210: Principles of Accounting II
+ACCT 3210: Intermediate Accounting I
+ACCT 3220: Intermediate Accounting II
+ACCT 3230: Federal Income Tax I
+ACCT 3231: Federal Income Tax II
+ACCT 3240: Cost Accounting
+FIN 3310: Corporate Finance I
+FIN 3311: Corporate Finance II
+FIN 3320: Financial Statement Analysis
+MKT 2500: Principles of Marketing
+MGS 2030: Principles of Management
+MGS 3040: Management Information Systems
+MGS 3100: Operations Management
+MGS 4999: Integrative Business Strategy
+MGS 3520: Business Ethics and Social Responsibility

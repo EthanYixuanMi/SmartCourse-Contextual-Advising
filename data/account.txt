@@ -1,0 +1,2 @@
+user@smartcourse.com,user123,student,cps
+admin@smartcourse.com,admin123,instructor
