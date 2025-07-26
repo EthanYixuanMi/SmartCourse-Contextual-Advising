@@ -2,6 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/xxxx.xxxxx)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](#)
+[![Contact](https://img.shields.io/badge/Contact-Email-red.svg)](mailto:yixuanmi25@gmail.com)
 [![License](https://img.shields.io/badge/License-MIT-green)](#license)
 
 ## 🔍 Overview
