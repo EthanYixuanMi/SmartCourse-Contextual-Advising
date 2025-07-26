@@ -25,6 +25,8 @@ This research version expands the original project with:
 ## 🧠 How It Works
 
 SmartCourse supports three user roles:
+![System Architecture](assets/SmartCourse_arch.pdf)
+
 - **Student**: Enroll/drop courses, view grades, and request AI suggestions
 - **Instructor**: Assign grades and review student enrollment
 - **Administrator**: Manage course catalog and switch LLM models
