@@ -104,6 +104,9 @@ We compared SmartCourse across four context settings:
 | No Transcript | **0.60**      | 0.69          | 0.09 | **0.17**   | 34.34       |
 | Question Only | 0.04      | 0.04          | 0.00 | 0.00   | 21.52       |
 
+![Context Evaluation Comparison](assets/bar_chart.png)  
+*Fig. 6. Evaluation metrics (PlanScore, PersonalScore, Lift, Recall) across four context modes.*
+
 
 ## 📄 Citation
 Our citation will be released once the arxiv link are available.
