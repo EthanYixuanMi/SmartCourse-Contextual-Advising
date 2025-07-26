@@ -73,8 +73,26 @@ python ui_gradio.py
 
 ## AI Integration (via Ollama)
 1. Install [Ollama](https://ollama.com/download)
+2. Set model path as environment variable (for Windows):
+```bash
+setx OLLAMA_MODELS "D:\ollama_models" /M
+```
+3. Pull your model:
+```bash
+ollama pull llama3.1:8b
+```
 
-2. 
+> ### 💡 Need help installing Ollama?
+> Try our visual installer: [Ollama Quick Installer for Windows](https://github.com/EthanYixuanMi/Ollama-Windows-Installer)
+
+
+
+
+
+
+
+
+
 
 
 
