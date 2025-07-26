@@ -60,6 +60,7 @@ pip install gradio requests
 The following files are required to run the system end-to-end (via CLI or GUI):  
 `data/account.txt`, `data/course_list.txt`, `data/cps_plan.txt`, `main_frame/main.py`, and `main_frame/ui_gradio.py`.  
 
+```
 ├── assets/                  # All figures used in the paper (system architecture, GUI, results)  
 ├── data/                    # Sample input data  
 │   ├── account.txt  
@@ -78,7 +79,7 @@ The following files are required to run the system end-to-end (via CLI or GUI):
 │   └── relevance_scores.csv  
 ├── LICENSE  
 └── README.md  
-  
+```
 
 
 
