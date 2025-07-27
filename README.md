@@ -10,9 +10,9 @@
 ## 🔍 Overview
 
 SmartCourse is a university course management and AI-driven advising system that provides personalized course recommendations based on a student's transcript and degree plan. This repository is an enhanced version of our original course project, extended for research and evaluation purposes.
+   
+🔁 This project extends our original coursework project ([CPS3320](https://github.com/EthanYixuanMi/CS-Course-Project-in-WKU/tree/main/CPS3320)) with research-driven improvements and evaluation.
 
-> This project is based on the original coursework project:  
-> [CS-Course-Project-in-WKU/CPS3320](https://github.com/EthanYixuanMi/CS-Course-Project-in-WKU/tree/main/CPS3320)
 
 
 ## ✨ New in This Version
@@ -21,7 +21,7 @@ This research version expands the original project with:
 - 📊 Experimental evaluation on 25 advising queries
 - 🎯 Novel contextual prompts integrating transcripts and four-year plans
 - 🧠 Local LLM (via Ollama) for context-aware recommendations
-- 📐 Custom metrics: `PlanScore`, `PersonalScore`, `Lift`, and `Recall`
+- 📐 Custom metrics: `PlanScore`, `PersonalScore`, `Lift (= PersonalScore - PlanScore)`, and `Recall`
 - 🧪 Context ablation experiments comparing 4 modes (full, no transcript, no plan, question-only)
 
 
@@ -151,7 +151,7 @@ Our citation will be released once the arxiv link are available.
 SmartCourse demonstrates how contextual LLMs can transform academic advising from static guidance to personalized planning.
 
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
