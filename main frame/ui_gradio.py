@@ -4,7 +4,7 @@ from data_models import Student, Instructor
 from utils import write_log, send_enrollment_email, send_grade_email, ask_ai_question
 
 # Security Password Constants (Consistent with those in CLI)
-SECURITY_PASSWORD = "wku12345"
+SECURITY_PASSWORD = "smartcourse12345"
 
 # Initialize the course manager (load the course list, accounts, course selection records, etc.)
 manager = CourseManager()
