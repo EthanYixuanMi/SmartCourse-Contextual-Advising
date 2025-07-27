@@ -85,12 +85,7 @@ full_suffix = (
     " Prioritize courses where you scored below B-."
     + base_suffix
 )
-# full_suffix = (
-#     "\n\nOnly recommend courses that appear in the four-year plan shown above."
-#     " Absolutely do NOT include any course you have already taken or scored above B-."
-#     " Rank the suggestions by your lowest grade first, so that those most in need of retake or reinforcement come first."
-#     + base_suffix
-# )
+
 
 noTranscript_suffix = (
     "\n\nOnly recommend courses that appear in the four-year plan shown above."
@@ -98,13 +93,7 @@ noTranscript_suffix = (
     " it’s OK to suggest courses the student may have already taken."
     + base_suffix
 )
-# noTranscript_suffix = (
-#     "\n\nOnly recommend courses that appear in the four-year plan shown above."
-#     " You have no access to the student's transcript."
-#     " It is acceptable—even expected—to suggest courses the student may already have taken."
-#     " Do NOT attempt to avoid duplicates or infer grades."
-#     + base_suffix
-# )
+
 
 def build_prompt(mode: str, q: str) -> str:
     history = "\n".join(f"{c} - {g or 'Not assigned'}"
