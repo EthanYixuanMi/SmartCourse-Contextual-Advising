@@ -1,9 +1,10 @@
-# Smartcourse Contextual Advising
+# SmartCourse Contextual Advising
 
 [![arXiv](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/xxxx.xxxxx)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](#)
+[![Python](https://img.shields.io/badge/Built%20with-Python%203.8+-yellow.svg)](#)
 [![Contact](https://img.shields.io/badge/Contact-Email-red.svg)](mailto:yixuanmi25@gmail.com)
 [![License](https://img.shields.io/badge/License-MIT-green)](#license)
+[![Stars](https://img.shields.io/github/stars/EthanYixuanMi/ollama-windows-installer.svg?style=social)](https://github.com/EthanYixuanMi/ollama-windows-installer/stargazers)
 
 ## 🔍 Overview
 
