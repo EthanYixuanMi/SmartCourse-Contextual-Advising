@@ -2,7 +2,7 @@ from datetime import datetime
 import smtplib
 from email.message import EmailMessage
 import requests
-import time, csv, os               # ← 新增
+import time, csv, os               
 
 def write_log(message):
     with open("log.txt", "a", encoding="utf-8") as file:
@@ -47,15 +47,15 @@ def send_grade_email(to_email, message_body):
 
 def ask_ai_question(prompt):
     """
-    调用本地 Ollama 模型并返回 (reply, latency) 二元组：
-    reply   —— LLM 给出的自然语言答案（string）
-    latency —— 端到端生成耗时（float, 秒）
+    Calls the local Ollama model and returns the (reply, latency) binary: 
+    reply —— natural language answer given by LLM (string) 
+    latency —— end-to-end generation elapsed time ( float, seconds)
     """
     start = time.time()
     try:
         resp = requests.post(
             "http://localhost:11434/api/generate",
-            json={"model": "deepseek-r1:1.5b",
+            json={"model": "llama3.1:8b",
                   "prompt": prompt,
                   "stream": False},
             timeout=300
@@ -68,7 +68,7 @@ def ask_ai_question(prompt):
 
     latency = time.time() - start
 
-    # 记录 token/latency 方便后续分析
+    # Record token/latency for subsequent analysis
     word_cnt = len(reply.split())
     with open("latency_log.csv", "a", newline="") as f:
         csv.writer(f).writerow([word_cnt, latency])
