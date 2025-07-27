@@ -11,7 +11,7 @@ def display_student_menu(manager, username):
         print("\nStudent Menu:\n1. Enroll in Course\n2. View My Courses\n3. Drop Course\n4. Ask AI for Advice\n5. Exit")
         choice = input("Your choice: ").strip()
 
-        # 1. 选课
+        # 1. Course Selection
         if choice == "1":
             keyword = input("Search keyword (or leave empty for all): ")
             matched = manager.search_courses(keyword)
@@ -37,7 +37,7 @@ def display_student_menu(manager, username):
             else:
                 print("Invalid course.")
 
-        # 2. 查看已选课程
+        # 2. View Enrolled Courses
         elif choice == "2":
             courses = manager.get_student_courses(username)
             if not courses:
@@ -46,7 +46,7 @@ def display_student_menu(manager, username):
                 for c, g in courses.items():
                     print(f"{c} - Grade: {g if g else 'Not assigned'}")
 
-        # 3. 退课
+        # 3. Drop Courses
         elif choice == "3":
             courses = manager.get_student_courses(username)
             if not courses:
@@ -69,7 +69,7 @@ def display_student_menu(manager, username):
             )
             print("Course dropped.")
 
-        # 4. AI 建议
+        # 4. AI advice
         elif choice == "4":
             question = input("Enter your academic question (e.g., What course should I take next?): ").strip()
             student_courses = manager.get_student_courses(username)
@@ -91,7 +91,7 @@ def display_student_menu(manager, username):
                 "Based on my question, my course history, and the plan above, give me a suggestion."
             )
 
-            reply, latency = ask_ai_question(full_prompt)   # ← 解包元组
+            reply, latency = ask_ai_question(full_prompt)   # ← unpacking tuple
             print(f"\n[AI ADVICE]  (⏱ {latency:.1f}s)")
             for para in reply.strip().split("\n"):
                 if para.strip():
@@ -99,7 +99,7 @@ def display_student_menu(manager, username):
                 else:
                     print()
 
-        # 5. 退出
+        # 5. Exit
         elif choice == "5":
             manager.save_enrollments()
             print("Goodbye!")
