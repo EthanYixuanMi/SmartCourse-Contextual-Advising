@@ -1,8 +1,8 @@
 # SmartCourse Contextual Advising
 
 [![arXiv](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/xxxx.xxxxx)
-[![Python](https://img.shields.io/badge/Built%20with-Python%203.8+-yellow.svg)](#)
-[![Contact](https://img.shields.io/badge/Contact-Email-red.svg)](mailto:yixuanmi25@gmail.com)
+[![Python](https://img.shields.io/badge/Built%20with-Python%203.8+-yellow.svg)](#)   
+[![First Author](https://img.shields.io/badge/1st-Yixuan%20Mi-blue.svg)](https://github.com/EthanYixuanMi) [![Second Author](https://img.shields.io/badge/2nd-Yiduo%20Yu-blue.svg)](https://github.com/YiduoYu) [![Third Author](https://img.shields.io/badge/3rd-Yiyi%20Zhao-blue.svg)](https://github.com/Catherine21111)   
 [![License](https://img.shields.io/badge/License-MIT-green)](#license)
 [![Stars](https://img.shields.io/github/stars/EthanYixuanMi/ollama-windows-installer.svg?style=social)](https://github.com/EthanYixuanMi/ollama-windows-installer/stargazers)
 
