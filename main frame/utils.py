@@ -11,8 +11,8 @@ def write_log(message):
 def send_enrollment_email(to_email, message_body):
     smtp_server = "smtp.qq.com"
     smtp_port   = 587
-    sender_email    = "2509783307@qq.com"
-    sender_password = "dccgnssnnrboeajc"
+    sender_email    = "your_email_address"
+    sender_password = "your_smtp_authorisation_code"
 
     msg = EmailMessage()
     msg['Subject'] = 'SmartCourse Enrollment Notification'
@@ -29,8 +29,8 @@ def send_enrollment_email(to_email, message_body):
 def send_grade_email(to_email, message_body):
     smtp_server = "smtp.qq.com"
     smtp_port   = 587
-    sender_email    = "2509783307@qq.com"
-    sender_password = "dccgnssnnrboeajc"
+    sender_email    = "your_email_address"
+    sender_password = "your_smtp_authorisation_code"
 
     msg = EmailMessage()
     msg['Subject'] = 'SmartCourse Grading Notification'
