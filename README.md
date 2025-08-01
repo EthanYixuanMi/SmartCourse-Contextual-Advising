@@ -141,7 +141,17 @@ We evaluated SmartCourse on 25 representative advising queries across four conte
 
 
 ## 📄 Citation
-Our citation will be released once the arxiv link are available.
+```
+@misc{mi2025smartcoursecontextualaipoweredcourse,
+      title={SmartCourse: A Contextual AI-Powered Course Advising System for Undergraduates}, 
+      author={Yixuan Mi and Yiduo Yu and Yiyi Zhao},
+      year={2025},
+      eprint={2507.22946},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY},
+      url={https://arxiv.org/abs/2507.22946}, 
+}
+```
 
 
 
