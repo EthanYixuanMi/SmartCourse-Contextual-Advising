@@ -45,9 +45,9 @@ All interactions can happen through:
 
 
 The AI Advising Module uses structured prompts that combine:  
-[Transcript]()  
-[Degree Plan]()  
-[Student Question]()  
+- Transcript  
+- Degree Plan  
+- Student Question  
 to provide personalized suggestions via a local LLM (e.g., LLaMA3.1:8B through Ollama).
 
 ## 🛠 Installation
