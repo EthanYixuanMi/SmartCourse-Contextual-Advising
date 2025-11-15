@@ -6,7 +6,6 @@
 [![Python](https://img.shields.io/badge/Built%20with-Python%203.8+-yellow.svg)](#)
 [![License](https://img.shields.io/badge/License-MIT-green)](#license)   
 [![Stars](https://img.shields.io/github/stars/EthanYixuanMi/ollama-windows-installer.svg?style=social)](https://github.com/EthanYixuanMi/ollama-windows-installer/stargazers)
-[![Citations](https://img.shields.io/badge/Citations-1-orange)](https://scholar.google.com/citations?user=BckVFLsAAAAJ)
 
 
 ## 🔍 Overview
